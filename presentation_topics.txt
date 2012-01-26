@@ -1,0 +1,41 @@
+Topics for CS35L presentation
+last updated: Jan 25, 2012
+
+Part I: Super Editors
+
+Vim Plugins
+Emacs Plugins
+
+Part II: Programming Languages
+
+Lisp
+Perl
+Javascript
+
+Part III: Linux Tools
+
+awk
+svn
+autoconf and automake
+Adavanced git (including github)
+
+Part IV: System Programming
+
+Advanced usage on libpthread (Synchronization, C Language)
+Unix/Linux multiprocessing Programming (fork, pipe)
+Python Libraries -- Multithread libs (multiprocessing, threading)
+Socket programming (using C)
+Socket programming (using Python)
+System calls other than (read, write)
+
+Part V: Other libraries in C or Python
+
+C Language -- <stdio.h>
+C Language -- <stdlib.h>
+C Language -- <string.h>
+C++ Language -- STL
+C++ Language -- C++11
+Python Libs -- re (regular expression in Python)
+Python Libs -- Python Database Access
+Python Libs -- Python file and direcory handling
+Python Libs -- Operating system support (os)
