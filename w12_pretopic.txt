@@ -1,0 +1,44 @@
+704004642	Takahashi, Glen         	  node.js
+804083587	Nakamoto, Komei	        	  awk
+303781526       Tharanipathy, Nivita              perl
+
+204079833       Zou, Wei                          STL library vector
+203892105       Mao, David                        macro recording in vim
+803889336       Snively, Rory                     scilab: open source matlab
+
+903933664       Aclander, Nathan                  package management in Mac OS
+803877526       Desautels, Cory                   javascript and jquery
+903907226       Rabizadeh, Shervin                mysql
+
+503812701       Kahn, Moshe                       python regular expression
+203764136       Chen, Ian                         linux architecture (kernel)
+804083356       Menachekanian, Artin              --
+
+003875550       Seth, Rohit                       python standard library
+003955212       Jun, Samuel                       --
+103914792       Lee, Howard                       surround.vim plugin
+
+Feb 29
+603903866       Yang, David
+603906879       Nguyen, Anh-Vu
+903942239       Kwok, William
+
+Mar 5
+803889893       Chan, Michael
+103937675       Ng, Derek
+503907092       Fouladinejad, Matin
+
+Mar 7
+603909726       Compton, Patrick
+103808046       Zhu, Junda
+003948924       Lee, Howard
+
+Mar 12
+803938426       Ly, Steven
+503900335       Kim, Chan Young
+
+Mar 14
+403946621       Xiao, Osbert
+703838154       Ahmed, Salman
+003929794       Jiang, Jesse
+903909635       Sun, Zhongtai
