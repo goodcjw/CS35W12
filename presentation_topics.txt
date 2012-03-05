@@ -11,6 +11,7 @@ Part II: Programming Languages
 Lisp
 Perl
 Javascript
+Haskell
 
 Part III: Linux Tools
 
@@ -39,3 +40,9 @@ Python Libs -- re (regular expression in Python)
 Python Libs -- Python Database Access
 Python Libs -- Python file and direcory handling
 Python Libs -- Operating system support (os)
+
+Part VI: Window managers other than Gnome and KDE
+
+xorg -- the base of almost all GUI in Linux/Unix system
+	this topic shall cover using xorg over ssh
+xmonad -- a lightweight window manager written in Haskell
